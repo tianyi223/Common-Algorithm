@@ -5,7 +5,7 @@
 
 
 
-//* 定义类型:  FFT数据, 视具体情况 Select one in double or float.
+//* 定义类型:  FFT数据(Data Type), 视具体情况 Select one in double or float.
 typedef double TFFTData;
 
 //* 定义类型:  复数(Complex)
